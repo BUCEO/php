@@ -1,6 +1,6 @@
 # Curso de Introducción a programación PHP
 
-## Introducción
+## Introducción a PHP
 
 *   [¿Qué es PHP?](docs/Intro.md)
 *   [Instalación y configuración](docs/Instalacion.md)
