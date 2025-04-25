@@ -14,7 +14,7 @@
 
 ## Funciones
 
-*   [Funciones predefinidas](Funciones.md)
+*   [Funciones predefinidas](docs/Funciones.md)
 
 ## BBDD
 
