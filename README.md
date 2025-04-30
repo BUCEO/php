@@ -16,6 +16,9 @@
 
 *   [Funciones predefinidas](docs/Funciones.md)
 
+## Arrays
+
+*   [Arrays predefinidas](docs/Arrays.md)
 ## BBDD
 
 *   [Conexión a la base de datos](docs/conexion.md)
