@@ -71,6 +71,8 @@ $producto = ["nombre" => "Laptop", "precio" => 950];
 foreach ($producto as $clave => $valor) {
     echo "$clave: $valor\n";
 }
+```
+
 🔁 foreach para arrays multidimensionales
 
 ```php
