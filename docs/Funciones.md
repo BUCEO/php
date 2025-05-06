@@ -75,7 +75,7 @@ Preguntas de opción múltiple
 
   a) Una variable que almacena un número
 
-b) Un bloque de código que realiza una tarea específica ✅
+b) Un bloque de código que realiza una tarea específica 
 
 c) Un error del programa
 
@@ -87,7 +87,7 @@ a) miFuncion()
 
 b) saludar()
 
-c) strlen() ✅
+c) strlen() 
 
 d) sumarNumeros()
 
@@ -97,7 +97,7 @@ a) Ejecuta otra función
 
 b) Detiene el programa
 
-c) Devuelve un valor al lugar donde fue llamada ✅
+c) Devuelve un valor al lugar donde fue llamada 
 
 d) Muestra un mensaje
 
@@ -107,7 +107,7 @@ a) crear funcion {}
 
 b) funcion() {}
 
-c) function miFuncion() {} ✅
+c) function miFuncion() {} 
 
 d) define miFuncion()
 
