@@ -19,6 +19,7 @@
 ## Arrays
 
 *   [Arrays predefinidas](docs/Arrays.md)
+*   [Arrays Ejercicios Explicados](docs/EjercicioArrays.md)
 ## BBDD
 
 *   [Conexión a la base de datos](docs/conexion.md)
