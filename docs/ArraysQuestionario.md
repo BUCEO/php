@@ -16,16 +16,13 @@ d) Filtra los elementos que cumplen una condición.
 
 3. Dado este código:
 
-
-
-´´´php
-
+```php
 $valores = [5, 15, 20];
 $mayores = array_filter($valores, function($v) {
     return $v > 10;
 });
 
-´´´
+```
 ¿Cuál será el contenido de $mayores?
 
 a) [5, 15, 20]
@@ -91,8 +88,7 @@ d) Elimina elementos duplicados y los ordena.
 
 🔧 Parte 2: Desarrollo práctico
 Dado el siguiente array multidimensional:
-
-´´´php
+```php
 
 $productos = [
     ['nombre' => 'USB', 'precio' => 500, 'stock' => 5],
@@ -100,7 +96,8 @@ $productos = [
     ['nombre' => 'Auriculares', 'precio' => 2000, 'stock' => 0]
 ];
 
-´´´
+```
+
 Recorré el array con foreach y mostrales al usuario el nombre, el precio y el stock de cada producto.
 
 Usá array_filter() para devolver solo los productos con stock mayor a 10.
