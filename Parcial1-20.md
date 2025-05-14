@@ -8,7 +8,7 @@
 ### 1. ¿Cuál de los siguientes símbolos se utiliza para declarar una variable en PHP?
 
 - [ ] %
-- [ ] $
+- [x] $
 - [ ] @
 - [ ] #
 
@@ -19,14 +19,14 @@
 - [ ] array
 - [ ] object
 - [ ] resource
-- [ ] string
+- [x] string
 
 ---
 
 ### 3. ¿Qué valor devuelve la siguiente expresión: `true && false`?
 
 - [ ] true
-- [ ] false
+- [x] false
 - [ ] 0
 - [ ] null
 
@@ -36,7 +36,7 @@
 
 - [ ] Aritmético
 - [ ] Asignación
-- [ ] Comparación estricta
+- [x] Comparación estricta
 - [ ] Lógico
 
 ---
@@ -45,14 +45,14 @@
 
 - [ ] 0
 - [ ] 3
-- [ ] 1
+- [x] 1
 - [ ] 10
 
 ---
 
 ### 6. ¿Qué función se utiliza para mostrar información en pantalla?
 
-- [ ] echo
+- [x] echo
 - [ ] printf
 - [ ] input
 - [ ] scanf
@@ -61,7 +61,7 @@
 
 ### 7. ¿Cuál es la estructura correcta de un bloque `if` en PHP?
 
-- [ ] `if ($a > $b) { echo $a; }`
+- [x] `if ($a > $b) { echo $a; }`
 - [ ] `if $a > $b then echo $a;`
 - [ ] `if ($a > $b) echo $a`
 - [ ] `if $a > $b: echo $a;`
@@ -70,7 +70,7 @@
 
 ### 8. ¿Cuál es el resultado de `4 == "4"`?
 
-- [ ] true
+- [x] true
 - [ ] false
 - [ ] error
 - [ ] null
@@ -80,7 +80,7 @@
 ### 9. ¿Qué operador se utiliza para concatenar cadenas en PHP?
 
 - [ ] +
-- [ ] .
+- [x] .
 - [ ] &
 - [ ] ,
 
@@ -88,7 +88,7 @@
 
 ### 10. ¿Qué estructura repite un bloque de código mientras una condición sea verdadera?
 
-- [ ] while
+- [x] while
 - [ ] if
 - [ ] switch
 - [ ] function
@@ -99,14 +99,14 @@
 
 - [ ] def
 - [ ] function()
-- [ ] function
+- [x] function
 - [ ] func
 
 ---
 
 ### 12. ¿Cuál es el índice del primer elemento de un array en PHP?
 
-- [ ] 0
+- [x] 0
 - [ ] 1
 - [ ] -1
 - [ ] depende del tipo
@@ -115,7 +115,7 @@
 
 ### 13. ¿Qué función cuenta los elementos de un array?
 
-- [ ] count()
+- [x] count()
 - [ ] size()
 - [ ] total()
 - [ ] length()
@@ -124,7 +124,7 @@
 
 ### 14. ¿Qué tipo de error produce el acceso a una variable no definida?
 
-- [ ] Warning
+- [x] Warning
 - [ ] Notice
 - [ ] Fatal error
 - [ ] Syntax error
@@ -136,14 +136,14 @@
 - [ ] integer
 - [ ] number
 - [ ] boolean
-- [ ] bool
+- [x] bool
 
 ---
 
 ### 16. ¿Qué estructura permite múltiples condiciones con casos específicos?
 
 - [ ] if
-- [ ] switch
+- [x] switch
 - [ ] loop
 - [ ] else if
 
@@ -151,7 +151,7 @@
 
 ### 17. ¿Qué significa `!==` en PHP?
 
-- [ ] Diferente en valor o tipo
+- [x] Diferente en valor o tipo
 - [ ] Asignación negada
 - [ ] Igual pero no idéntico
 - [ ] No se puede usar
@@ -160,7 +160,7 @@
 
 ### 18. ¿Qué operador se usa para sumar y asignar en una sola operación?
 
-- [ ] +=
+- [x] +=
 - [ ] ==
 - [ ] ++
 - [ ] :=
@@ -170,7 +170,7 @@
 ### 19. ¿Cuál es el tipo de dato de `3.14` en PHP?
 
 - [ ] integer
-- [ ] float
+- [x] float
 - [ ] string
 - [ ] double
 
@@ -178,14 +178,11 @@
 
 ### 20. ¿Qué hace `var_dump()`?
 
-- [ ] Muestra tipo y valor de una variable
+- [x] Muestra tipo y valor de una variable
 - [ ] Elimina una variable
 - [ ] Crea una variable
 - [ ] Asigna un valor
 
----
 
-*(Continúa con 20 preguntas más… ¿Querés que te lo termine completo en el mismo formato o preferís que lo separemos por temas?)*  
-Puedo seguir inmediatamente con las 20 restantes.
 
----
+
