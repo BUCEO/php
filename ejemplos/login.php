@@ -14,7 +14,7 @@ try {
         $pass = $_POST["password"];
 
         $stmt = $pdo->prepare("SELECT * FROM usuarios WHERE usuario = ? AND contrasena = ?");
-        $stmt->execute([$user, $pass]);
+        $stmt->execute([$user, md5($pass)]);
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
 
         if ($result) {
