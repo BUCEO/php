@@ -19,3 +19,9 @@ CREATE TABLE IF NOT EXISTS usuarios (
 INSERT INTO usuarios (usuario, contrasena, activo, tipo_usuario) VALUES
 ('admin', MD5('admin123'), 1,'admin'),
 ('usuario1', MD5('user123'), 1,'normal');
+
+
+-- Crear el usuario ta1 con permisos en la base de datos
+CREATE USER 'ta1'@'localhost' idenified by 'ta12025';
+-- Asignar  permisos al usurio de la base de datos
+GRANT ALL PRIVILEGES ON `usuarios_ta1`.* TO `ta1`@`localhost` ;
