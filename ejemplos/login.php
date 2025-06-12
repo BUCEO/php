@@ -13,7 +13,7 @@ try {
         $user = $_POST["username"];
         $pass = $_POST["password"];
 
-        $stmt = $pdo->prepare("SELECT * FROM usuarios WHERE username = ? AND password = ?");
+        $stmt = $pdo->prepare("SELECT * FROM usuarios WHERE usuario = ? AND contrasena = ?");
         $stmt->execute([$user, $pass]);
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
 
