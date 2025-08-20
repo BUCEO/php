@@ -26,9 +26,10 @@
 *   [Consulta de datos](docs/consultas.md)
 *   [Inserción y actualización de datos](docs/actualizacion.md)
 
-## Objetos
+##  Programación Orientada a Objetos (OOP)
 
 *   [Clases y Objetos](docs/Clase_09_Clases_y_Objetos.md)
+*   [Constructores_Modificadores ](docs/Clase_10_Constructores_Modificadores.md)
 *   [Herencia](seccion-objetos.md#herencia)
 *   [Polimorfismo](seccion-objetos.md#polimorfismo)
 
