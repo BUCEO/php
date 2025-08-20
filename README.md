@@ -28,7 +28,7 @@
 
 ## Objetos
 
-*   [Clases y Objetos](seccion-objetos.md#clases)
+*   [Clases y Objetos](docs/Clase_09_Clases_y_Objetos.md)
 *   [Herencia](seccion-objetos.md#herencia)
 *   [Polimorfismo](seccion-objetos.md#polimorfismo)
 
