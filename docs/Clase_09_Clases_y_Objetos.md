@@ -1,4 +1,4 @@
-# 📘 Clase 9 – Introducción a la POO en PHP: Clases y Objetos
+# 📘  Introducción a la POO en PHP: Clases y Objetos
 
 ## 🎯 Objetivos de la clase
 - Comprender los fundamentos de la Programación Orientada a Objetos (POO).  
