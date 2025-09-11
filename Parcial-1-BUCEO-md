@@ -1,0 +1,101 @@
+﻿Sistema de Login 2FA - Documentación Técnica
+
+Estudio de Requerimientos basado en estándares ISO/IEC 29148 e ISO 9126
+
+1. Introducción
+
+Sistema de autenticación de dos factores (2FA) desarrollado en PHP 8.3 vanilla con MySQL, que cumple con los estándares de calidad ISO 9126 y especificación de requisitos ISO/IEC 29148.
+
+1. Requisitos Funcionales (Priorización MoSCoW)
+
+Must Have:
+
+Sistema de registro y login con validación de credenciales
+
+Autenticación de dos factores (2FA)
+
+Contraseñas seguras (mínimo 8 caracteres, complejidad)
+
+Restablecimiento de contraseña seguro
+
+Confirmación de registro vía email
+
+Gestión de perfiles y permisos
+
+No reutilización de contraseñas anteriores
+
+Should Have:
+
+Vencimiento de contraseñas configurable
+
+Sistema de auditoría de usuario
+
+Could Have:
+
+Implementación de CAPTCHA
+
+Múltiples métodos de 2FA (email, app authenticator, SMS)
+
+Won't Have:
+
+Integración con redes sociales
+
+1. Requisitos No Funcionales (ISO 9126)
+
+Funcionalidad: Cumplimiento de especificaciones, exactitud, interoperabilidad
+
+Confiabilidad: Tolerancia a fallos, recuperabilidad
+
+Usabilidad: Comprensibilidad, aprendizaje, operabilidad
+
+Eficiencia: Comportamiento temporal, utilización de recursos
+
+Mantenibilidad: Analizabilidad, modificabilidad, estabilidad
+
+Portabilidad: Adaptabilidad, instalabilidad
+
+Rúbrica de Evaluación (40 puntos)
+
+Trabajo en Equipo (10 puntos)
+
+1. pts: Participación equitativa en el desarrollo
+
+1. pts: Comunicación efectiva entre miembros
+
+1. pts: Resolución colaborativa de problemas
+
+Comunicación (10 puntos)
+
+1. pts: Documentación clara y completa
+
+1. pts: Presentación efectiva del proyecto
+
+1. pts: Uso adecuado de terminología técnica
+
+Pensamiento Computacional (10 puntos)
+
+1. pts: Diseño de algoritmos eficientes
+
+1. pts: Optimización de código
+
+1. pts: Identificación y resolución de problemas lógicos
+
+Resolución de Problemas (10 puntos)
+
+1. pts: Implementación de funcionalidades completas
+
+1. pts: Manejo adecuado de errores y excepciones
+
+1. pts: Implementación de medidas de seguridad
+
+Competencias Desarrolladas
+
+Trabajo en equipo: Colaboración en el desarrollo de un sistema complejo
+
+Comunicación: Documentación técnica y presentación de resultados
+
+Pensamiento computacional: Diseño de algoritmos y estructuras de datos
+
+Resolución de problemas: Implementación de medidas de seguridad y manejo de errores
+
+Este sistema cumple con los estándares requeridos y proporciona una base sólida para un sistema de autenticación seguro con 2FA, gestión de permisos y auditoría.

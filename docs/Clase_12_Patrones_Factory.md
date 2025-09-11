@@ -1,8 +1,6 @@
 
 ---
 
-## 📄 `clase12-factory.md`
-
 ```markdown
 # Clase 12 - Patrón Factory en MVC con PHP
 
