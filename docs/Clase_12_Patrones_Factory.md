@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # Clase 12 - Patrón Factory en MVC con PHP
 
 ## 🎯 Objetivo
@@ -34,7 +30,9 @@ class UserFactory {
         };
     }
 }
+```
 📄 Ejemplo en un controlador MVC
+```php
 <?php
 use ONDA\Model\UserFactory;
 
@@ -45,7 +43,7 @@ class UserController {
         return $user;
     }
 }
-
+```
 ✅ Ventajas
 
 Centraliza la creación de objetos.
