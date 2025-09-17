@@ -30,12 +30,15 @@
 
 *   [Clases y Objetos](docs/Clase_09_Clases_y_Objetos.md)
 *   [Constructores_Modificadores ](docs/Clase_10_Constructores_Modificadores.md)
+*   [Patrones_Singleton ](docs/Clase_11_Patrones_Singleton.md)
+*   [Patrones_Factory ](docs/Clase_12_Patrones_Factory.md)
+*  
 *   [Herencia](seccion-objetos.md#herencia)
 *   [Polimorfismo](seccion-objetos.md#polimorfismo)
 
 ## Ejemplos prácticos
 
-*   [Creación de una página web](docs/Login.md)
+*   [Formulario login](docs/Login.md)
 *   [Formulario de contacto](docs/Contacto.md)
 *   [Gestión de usuarios](docs/Gestion.md)
 *   [Gestión de usuarios avanzada](docs/Gestion-avanzada.md)
